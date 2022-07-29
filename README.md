@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arvinnick
 - 👀 I’m interested in hardware simulation, low level computing, machine learning
-- 🌱 I’m currently learning HDL, data visualization
-- 💞️ I’m looking to collaborate on robotics related projects
+- 🌱 I’m currently learning machine learning and data visualization
+- 💞️ I’m looking to collaborate on robotics projects
 - 📫 How to reach me: arvin.nick.90@gmail.com
 
 <!---
