@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arvinnick
 - 👀 I’m interested in hardware simulation, low level computing, machine learning
-- 🌱 I’m currently learning machine learning, data visualization and Django for backend and API
+- 🌱 I’m currently learning machine learning, data visualization and signal processing
 - 💞️ I’m looking to collaborate on robotics projects
 - 📫 How to reach me: arvin.nick.90@gmail.com
 
