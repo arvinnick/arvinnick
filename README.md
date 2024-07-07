@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on robotics projects
 - 📫 How to reach me: arvin.nick.90@gmail.com
 
+
+[My HackerRank profile](https://www.hackerrank.com/profile/arvin_nick_90)
+
 <!---
 arvinnick/arvinnick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
