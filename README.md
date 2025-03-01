@@ -5,8 +5,8 @@
 - 📫 How to reach me: arvin.nick.90@gmail.com
 
 
-<p>[My HackerRank profile](https://www.hackerrank.com/profile/arvin_nick_90)</p>
-<p>[My LinkedIn](https://www.linkedin.com/in/arvin-nick/)</p>
+[My HackerRank profile](https://www.hackerrank.com/profile/arvin_nick_90)\
+[My LinkedIn](https://www.linkedin.com/in/arvin-nick/)
 
 <!---
 arvinnick/arvinnick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
