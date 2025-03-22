@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arvinnick
 - 👀 I’m interested in low level coding
-- 🌱 I’m currently pursuing my bachelor's degree in computer science
-- 💞️ I’m looking to collaborate on robotics projects
+- 🌱 I’m currently pursuing my bachelor's degree in computer science and getting trained on EPAM systems for big data
+- 💞️ I’m looking to collaborate on aything available
 - 📫 How to reach me: arvin.nick.90@gmail.com
 
 
